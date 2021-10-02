@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1633137849 "d:/OneDrive/document/8 provinces/8 provinves.tex" "d:/OneDrive/document/8 provinces/8 provinves.pdf" "8 provinves" 1633137851
-  "8 provinves.aux" 1633137851 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "8 provinves.tex" 1633137849 3939 f2df2265b889f31292adc22c1e59b380 ""
+["pdflatex"] 1633138163 "d:/OneDrive/document/8 provinces/8 provinves.tex" "d:/OneDrive/document/8 provinces/8 provinves.pdf" "8 provinves" 1633138226
+  "8 provinves.aux" 1633138165 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "8 provinves.tex" 1633138162 3939 d2bf6c4c69bb3c0bb3e4b1f5b48370ce ""
   "C:/Program Files/MiKTeX 2.9/fonts/sfd/ttf2pk/UGBK.sfd" 1458473944 185547 bcd31d5d273400b38612a969fcab55f9 ""
   "C:/Program Files/MiKTeX 2.9/fonts/sfd/ttf2pk/Unicode.sfd" 1458473944 107591 c249c63d38b8b55408aee52d643b0c18 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -21,6 +21,7 @@
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong4e.tfm" 1247154072 1172 89be830028b08964827966f204abf065 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong4f.tfm" 1247154072 1172 dd7ec0fe171ece0b66015cb8929849f0 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong51.tfm" 1247154072 1172 c46d453988a7d703c4f5c5104bb894f0 ""
+  "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong52.tfm" 1247154072 1172 ebad2f047d83d1be72706895f11e9896 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong53.tfm" 1247154072 1172 e2a03d4bc65395303b42aaff9aacd7be ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong54.tfm" 1247154072 1172 c93f9362e45903cde8748b054b30ab56 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/zhmetrics/unisong/unisong57.tfm" 1247154072 1172 eb821bcbfd385c0d470afef6ff6ac95b ""
@@ -114,11 +115,11 @@
   "C:/Users/Shiwei Pan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1617879860 332998 c4641ac8a638c4d1c49d8db21f9cfef3 ""
   "C:/WINDOWS/Fonts/simsun.ttc" 1575709707 18214472 19674afc0754c3df8182b89fe7f0156d ""
   "D:/OneDrive/document/8 provinces/pic/pic1.png" 1633095656 52994 44ad6432b3d8b3f796779bcc957f2422 ""
-  "d:/OneDrive/document/8 provinces/8 provinves.aux" 1633137851 8 a94a2480d3289e625eea47cd1b285758 ""
-  "d:/OneDrive/document/8 provinces/8 provinves.tex" 1633137849 3939 f2df2265b889f31292adc22c1e59b380 ""
+  "d:/OneDrive/document/8 provinces/8 provinves.aux" 1633138165 8 a94a2480d3289e625eea47cd1b285758 ""
+  "d:/OneDrive/document/8 provinces/8 provinves.tex" 1633138162 3939 d2bf6c4c69bb3c0bb3e4b1f5b48370ce ""
   (generated)
+  "8 provinves.log"
+  "d:/OneDrive/document/8 provinces/8 provinves.pdf"
+  "d:/OneDrive/document/8 provinces/8 provinves.log"
   "8 provinves.pdf"
   "8 provinves.aux"
-  "8 provinves.log"
-  "d:/OneDrive/document/8 provinces/8 provinves.log"
-  "d:/OneDrive/document/8 provinces/8 provinves.pdf"
