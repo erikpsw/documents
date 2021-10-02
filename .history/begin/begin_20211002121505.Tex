@@ -82,12 +82,12 @@ D\left( {\frac{{ab}}{{a + b}},\frac{{ab}}{{a + b}}} \right)
 $$
 
 $$
-\begin{aligned}
- A{M^2} &= \frac{{{a^2}}}{4} + \frac{{{b^2}}}{4}\\
+\begin{align}
+\therefore A{M^2} &= \frac{{{a^2}}}{4} + \frac{{{b^2}}}{4}\\
 	&={\sqrt {\frac{{{{\left( {\frac{a}{{\sqrt 2 }}} \right)}^2} + {{\left( {\frac{b}{{\sqrt 2 }}} \right)}^2}}}{2}} ^2}
 \\AD^2&=2{\left( {\frac{{ab}}{{a + b}}} \right)^2}\\
 &= {\left( {\frac{2}{{\frac{{\sqrt 2 }}{a} + \frac{{\sqrt 2 }}{b}}}} \right)^2}
-\end{aligned}
+\end{align}
 $$
 
 已知
@@ -96,7 +96,8 @@ $$
   H_{n}=\frac{n}{\sum \limits_{i=1}^{n}\frac{1}{x_{i}}}= \frac{n}{\frac{1}{x_{1}}+ \frac{1}{x_{2}}+ \cdots + \frac{1}{x_{n}}} \\ Q_{n}=\sqrt{\sum \limits_{i=1}^{n}x_{i}^{2}}= \sqrt{\frac{x_{1}^{2}+ x_{2}^{2}+ \cdots + x_{n}^{2}}{n}} \\ H_{n}\leq Q_{n} 
 \end{array}
 $$
-由$H_2\le Q_2$,
+由$H_2\le Q_2$
+
 得
 $$
 AM\ge AD
@@ -105,89 +106,12 @@ $$
 
 另解，由中线定理
 $$
-{\left( {2AM} \right)^2} + B{C^2} = 2(A{B^2} + A{C^2}$$
-$$AM = \frac{{2({a^2} + {b^2}) - ({a^2} + {b^2})}}{4} = \frac{{{a^2}}}{4} + \frac{{{b^2}}}{4}\\
+{\left( {2AM} \right)^2} + B{C^2} = 2(A{B^2} + A{C^2}\\AM = \frac{{2({a^2} + {b^2}) - ({a^2} + {b^2})}}{4} = \frac{{{a^2}}}{4} + \frac{{{b^2}}}{4}\\
 $$
 由$S_{\triangle ABC}=S_{\triangle ABD}+S_{\triangle ACD}$
 $$
-\frac{1}{2}AB \cdot AC = \frac{1}{2}AB \cdot AD \cdot \sin \frac{\pi }{4} + \frac{1}{2}AC \cdot AD \cdot \sin \frac{\pi }{4}$$
-$$
+\frac{1}{2}AB \cdot AC = \frac{1}{2}AB \cdot AD \cdot \sin \frac{\pi }{4} + \frac{1}{2}AC \cdot AD \cdot \sin \frac{\pi }{4}\\
 AD = \frac{{\sqrt 2 AB \cdot AC}}{{AB + AC}} = \frac{{\sqrt 2 ab}}{{a + b}}
-$$
-
-以$F_1$为极点，垂直于左准线方向为极轴建系
-$$
-L = \rho _\theta + \rho _{\pi  - \theta}  = \left| \frac{2ep}{ {1 - {e^2}\cos ^2}\theta } \right|
-$$
-
-$$
-\begin{aligned}
-{S_{PMQN}}& = \frac{1}{2}|PQ| \cdot |MN|\\
-& = \frac{1}{2} \cdot \frac{{2ep}}{{1 - {e^2}{{\cos }^2}\theta }} \cdot \frac{{2ep}}{{1 - {e^2}{{\cos }^2}(\pi-\theta)}}\\
-&=\frac{{8{e^2}{p^2}}}{{4 - 4{e^2} + {e^4}{{\sin }^2}2\theta }}
-\end{aligned}$$
-$$
- e=\frac{c}{a},p=\frac{{{a^2}}}{c} - c = \frac{{{b^2}}}{c}
- $$
- $${S_{{\text{min}}}}=\frac{{8{e^2}{p^2}}}{{4 - 4{e^2} + {e^4}}}=\frac{{8{a^2}{b^4}}}{{{{({a^2} + {b^2})}^2}}}
- $$
- $${S_{{\text{max}}}} = \frac{{2{e^2}{p^2}}}{{1 - {e^2}}} = 2{b^2}
-$$
-
-
-
-另解
-
-设$PQ$方程为$x=my-c$，联立
-$$
-\begin{cases}
-\frac{{{x^2}}}{{{a^2}}} + \frac{{{y^2}}}{{{b^2}}} = 1\\
-x=my-c
-\end{cases} \Rightarrow ({a^2} + {b^2}{m^2}){y^2} - 2mc{b^2}y - {b^2}{c^2} = 0
-$$
-
-$$
-|PQ| = \sqrt {1 + {m^2}}  \cdot |{y_1} - {y_2}| = \frac{{2a{b^2}({m^2} + 1)}}{{{a^2} + {b^2}{m^2}}}
-$$
-
-用$ - \frac{1}{m}$替换$m$
-$$
-|MN| = \frac{{2a{b^2}\left[{{\left( - \frac{1}{m}\right)}^2} + 1\right]}}{{{a^2} + {b^2}{{( - \frac{1}{m})}^2}}} = \frac{{2a{b^2}\left({m^2} + 1\right)}}{{{a^2}{m^2} + {b^2}}}\\
-$$
-令$t=m^2$
-$$
-\begin{aligned}
- {S_{PMQN}}& = \frac{1}{2}|PQ| \cdot |MN|\\
-& = \frac{{2{a^2}{b^4}{{({t} + 1)}^2}}}{{({a^2} + {b^2}{t})({a^2}{t} + {b^2})}}\\
-&=\frac{{2{a^2}{b^4}({t^2} + 2t + 1)}}{{{a^2}{b^2}{t^2} + ({a^4} + {b^4})t + {a^2}{b^2}}}
-\end{aligned}\\
-$$
-若$t=0\Rightarrow S= 2{b^2}$
-
-若$t \ne   0$，分离常数
-$$
-\begin{aligned}
- {S_{PMQN}}& = 2{a^2}{b^4} \cdot \left[ {\frac{{\left( {2 - \frac{{{a^4} + {b^4}}}{{{a^2}{b^2}}}} \right)t}}{{{a^2}{b^2}{t^2} + ({a^4} + {b^4})t + {a^2}{b^2}}} + \frac{1}{{{a^2}{b^2}}}} \right]
- \\&=2{b^2} - \frac{{2({a^2} - {b^2}){b^2}}}{{{a^2}{b^2}\left( {t + \frac{1}{t}} \right) + {a^4} + {b^4}}}
- \\&\ge 2{b^2} - \frac{{2({a^2} - {b^2}){b^2}}}{{{{({a^2} + {b^2})}^2}}}
- \\&=\frac{{8{a^2}{b^4}}}{{{{({a^2} + {b^2})}^2}}}
-\end{aligned}
-$$
-当且仅当$t=m^2=1,k=\pm 1$ 时取等
-$$
-\lim_{t \to 0/+\infty} \frac{{2({a^2} - {b^2}){b^2}}}{{{a^2}{b^2}\left( {t + \frac{1}{t}} \right) + {a^4} + {b^4}}}=0
-$$
-
-$$
-  {S_{{\text{min}}}}=\frac{{8{a^2}{b^4}}}{{{{({a^2} + {b^2})}^2}}}
-  $$
-$$
-  {S_{{\text{max}}}}  = 2{b^2}
-$$
-
-注
-$$
-\frac{{2{a^2}{b^4}{{({t} + 1)}^2}}}{{({a^2} + {b^2}{t})({a^2}{t} + {b^2})}}\ge\frac{{2{a^2}{b^4}{{(t + 1)}^2}}}{{\frac{1}{4} \cdot {{[({a^2} + {b^2})t + ({a^2} + {b^2})]}^2}}}=\frac{{8{a^2}{b^4}}}{{{{({a^2} + {b^2})}^2}}}
 $$
 
 \bibliographystyle{plain}
