@@ -6,7 +6,6 @@
 \usepackage{graphicx}
 \usepackage{subfigure}
 \usepackage{caption}
-\usepackage[table,xcdraw]{xcolor}
 \captionsetup[figure]{name=Figure}
 \begin{document}
 
@@ -36,33 +35,22 @@ MAEKAWA Jun (前川淳),日本的软件工程师,数学家,折纸艺术家。
     \includegraphics[scale=0.2]{D:/OneDrive/markdown/Maekawa/image-20200814130404199.png}
     \caption{}
     \end{minipage}
-    \includegraphics[scale=0.4]{D:/OneDrive/markdown/Maekawa/image-20200814130423490.png}
-    \caption{}
 \end{figure}
 \end{flushright}
 
-\begin{table}[!htbp]
-    \centering
-    \begin{tabular}{|l|c|l|l|c|l|c|}
-    \hline
-     & \multicolumn{3}{c|}{$M$(Mountain)} & \multicolumn{2}{c|}{$V$(valley)} & \multicolumn{1}{l|}{$|M-V|$} \\ \hline
-    Figure 1 & \multicolumn{3}{c|}{1} & \multicolumn{2}{c|}{3} & {\color[HTML]{9A0000} 2} \\ \hline
-    Figure 2 & \multicolumn{3}{c|}{4} & \multicolumn{2}{c|}{2} & {\color[HTML]{9A0000} 2} \\ \hline
-    Figure 3 & \multicolumn{3}{c|}{5} & \multicolumn{2}{c|}{3} & {\color[HTML]{9A0000} 2} \\ \hline
-    \end{tabular}
-\end{table}
-      
 
 
+
+\begin{center}
+    \includegraphics[scale=0.3]{D:/OneDrive/markdown/Maekawa/image-20200814130423490.png}
+    \caption{3}
+\end{center}
 
 
 \section{前川定理的证明\cite{demaine2007geometric}}
 让$M(\text{Mountain})$和$V(\text{Valley})$分别代表平顶点折叠中山折和谷折的数量，则前川定理可以表示为
-\begin{equation}\label{2}
-    M = V +2 \quad \text{or}\quad V = M + 2
-\end{equation}
-    
 
+$M = V +2 \quad \text{or}\quad V = M + 2$
 
 即$|M-V|=2$
 
@@ -85,10 +73,8 @@ MAEKAWA Jun (前川淳),日本的软件工程师,数学家,折纸艺术家。
 
 
 想象有一个蚂蚁从$p$点出发在这个闭合回路上爬行，遇到山折便逆时针旋转$180^{\circ}$，遇到谷折便顺时针旋转$180^{\circ}$，最后回到原点，方向和开始一样，由于沿着闭合回路走了一周，相当于旋转了$360^{\circ}$度，即
-\begin{equation}\label{1}
-    M \times 180^{\circ} +V \times (-180^{\circ}) = 360^{\circ}
-\end{equation}
 
+$M \times 180^{\circ} +V \times (-180^{\circ}) = 360^{\circ}$
 
 $M - V = 2$
 
@@ -123,9 +109,8 @@ $ M = V +2 \quad \text{or}\quad V = M + 2$
 \end{center}
 
 \section{推广}
-\begin{equation}\label{3}
-    M + V = 2(V+1) \quad \text{or} \quad2(V- 1)
-    \end{equation}
+
+$M + V = 2(V+1) \quad \text{or} \quad2(V- 1)$
 
 得到偶数定理：单顶点折叠中折痕总数必为偶数，角的总数也必为偶数
 \begin{flushright}
