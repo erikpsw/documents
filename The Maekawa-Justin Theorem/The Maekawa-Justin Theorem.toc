@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}简介}{2}%
+\contentsline {section}{\numberline {2}平顶点折叠的例子}{3}%
+\contentsline {section}{\numberline {3}前川定理的证明}{4}%
+\contentsline {subsection}{\numberline {3.1}$\text {Proof}\tmspace +\thickmuskip {.2777em}1:$}{4}%
+\contentsline {subsection}{\numberline {3.2}$\text {Proof}\tmspace +\thickmuskip {.2777em}2:$}{5}%
+\contentsline {section}{\numberline {4}推广}{6}%

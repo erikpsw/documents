@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2021.4.19)  5 OCT 2021 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2021.4.19)  5 OCT 2021 19:51
 entering extended mode
 **"d:/OneDrive/document/The Maekawa-Justin Theorem/The Maekawa-Justin Theorem.tex"
 ("d:/OneDrive/document/The Maekawa-Justin Theorem/The Maekawa-Justin Theorem.tex"
@@ -292,6 +292,9 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count273
 \c@continuedfloat=\count274
 Package caption Info: subfigure package is loaded.
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
@@ -332,86 +335,86 @@ File: UTF8.chr 2015/04/18 4.8.4
 ) ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.aux")
 \openout1 = `"The Maekawa-Justin Theorem.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 11.
+LaTeX Info: Redefining \selectfont on input line 12.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count276
@@ -434,99 +437,109 @@ Package caption Info: End \AtBeginDocument code.
  ("C:\Program Files\MiKTeX 2.9\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex"
 File: ctex-zhmap-windows.tex 2020/05/16 v2.5.2 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
 {C:/Users/Shiwei Pan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}{UGBK.sfd}{Unicode.sfd})
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 18.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 19.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/ctex/fd\c70rm.fd"
 File: c70rm.fd 2020/05/16 v2.5.2 Chinese font definition (CTEX)
-)
-<D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg, id=9, 517.935pt x 528.97626pt>
+) ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.toc")
+\tf@toc=\write3
+\openout3 = `"The Maekawa-Justin Theorem.toc"'.
+
+<D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg, id=20, 517.935pt x 528.97626pt>
 File: D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg Graphic file (type jpg)
 <use D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg  used on input line 20.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg  used on input line 23.
 (pdftex.def)             Requested size: 310.76338pt x 317.3882pt.
-Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 22.
-<D:/OneDrive/markdown/Maekawa/image-20200814130413151.png, id=24, 1135.24126pt x 555.07375pt>
+ [1
+
+]
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+
+ []
+
+[2 <D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg>]
+<D:/OneDrive/markdown/Maekawa/image-20200814130413151.png, id=106, 1135.24126pt x 555.07375pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814130413151.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814130413151.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130413151.png  used on input line 30.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130413151.png  used on input line 36.
 (pdftex.def)             Requested size: 227.04422pt x 111.01277pt.
 
-Overfull \hbox (71.0466pt too wide) in paragraph at lines 30--31
+Overfull \hbox (71.0466pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<D:/OneDrive/markdown/Maekawa/image-20200814130404199.png, id=26, 1052.93375pt x 537.00626pt>
+<D:/OneDrive/markdown/Maekawa/image-20200814130404199.png, id=108, 1052.93375pt x 537.00626pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814130404199.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814130404199.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130404199.png  used on input line 36.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130404199.png  used on input line 42.
 (pdftex.def)             Requested size: 210.58302pt x 107.39934pt.
 
-Overfull \hbox (54.5854pt too wide) in paragraph at lines 36--37
+Overfull \hbox (54.5854pt too wide) in paragraph at lines 42--43
  [][] 
  []
 
-<D:/OneDrive/markdown/Maekawa/image-20200814130423490.png, id=27, 972.63374pt x 555.07375pt>
+<D:/OneDrive/markdown/Maekawa/image-20200814130423490.png, id=109, 972.63374pt x 555.07375pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814130423490.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814130423490.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130423490.png  used on input line 39.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130423490.png  used on input line 45.
 (pdftex.def)             Requested size: 389.0466pt x 222.02556pt.
-[1
 
- <D:/OneDrive/markdown/Maekawa/artist_jun_maekawa.jpg>]
-Overfull \hbox (0.90105pt too wide) in paragraph at lines 60--61
+Overfull \hbox (0.90105pt too wide) in paragraph at lines 66--67
 []\C70/rm/m/n/12/8b ©$\OML/cmm/m/it/12 M\OT1/cmr/m/n/12 ([])$\C70/rm/m/n/12/54 Œ$\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 ([])$\C70/rm/m/n/12/52  + \C70/rm/m/n/12/4e ã \C70/rm/m/n/12/88 h \C70/rm/m/n/12/5e s \C70/rm/m/n/12/98 v \C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/62 ˜ \C70/rm/m/n/12/53 à \C70/rm/m/n/12/4e - \C70/rm/m/n/12/5c q \C70/rm/m/n/12/62 ˜ \C70/rm/m/n/12/54 Œ \C70/rm/m/n/12/8c 7 \C70/rm/m/n/12/62 ˜ \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/91 Ï|\C70/rm/m/n/12/ff |
  []
 
-[2 <D:/OneDrive/markdown/Maekawa/image-20200814130413151.png> <D:/OneDrive/markdown/Maekawa/image-20200814130404199.png> <D:/OneDrive/markdown/Maekawa/image-20200814130423490.png>]
-<D:/OneDrive/markdown/Maekawa/image-20200814124909047.png, id=79, 706.64pt x 686.565pt>
+[3 <D:/OneDrive/markdown/Maekawa/image-20200814130413151.png> <D:/OneDrive/markdown/Maekawa/image-20200814130404199.png> <D:/OneDrive/markdown/Maekawa/image-20200814130423490.png>]
+<D:/OneDrive/markdown/Maekawa/image-20200814124909047.png, id=121, 706.64pt x 686.565pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814124909047.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814124909047.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814124909047.png  used on input line 71.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814124909047.png  used on input line 77.
 (pdftex.def)             Requested size: 176.65956pt x 171.64082pt.
 
-Overfull \hbox (2.7408pt too wide) in paragraph at lines 74--75
+Overfull \hbox (2.7408pt too wide) in paragraph at lines 80--81
 []\C70/rm/m/n/12/75 1 \C70/rm/m/n/12/4e Ž \C70/rm/m/n/12/62  \C70/rm/m/n/12/4e ì \C70/rm/m/n/12/53 ê \C70/rm/m/n/12/51 s \C70/rm/m/n/12/5f Ã \C70/rm/m/n/12/98 v \C70/rm/m/n/12/70 ¹$\OML/cmm/m/it/12 x$\C70/rm/m/n/12/54 Œ h \C70/rm/m/n/12/56 ô \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/62 ˜ \C70/rm/m/n/12/75 Õ|\C70/rm/m/n/12/ff | \C70/rm/m/n/12/62 @ \C70/rm/m/n/12/4e å \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/4e å å$\OML/cmm/m/it/12 x$\C70/rm/m/n/12/4e : \C70/rm/m/n/12/57  \C70/rm/m/n/12/5f Ã \C70/rm/m/n/12/50 Z \C70/rm/m/n/12/4e   * \C70/rm/m/n/12/57 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a\OT1/cmr/m/n/12 )$|\C70/rm/m/n/12/ff |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<D:/OneDrive/markdown/Maekawa/image-20200814125047016.png, id=87, 455.7025pt x 461.725pt>
+<D:/OneDrive/markdown/Maekawa/image-20200814125047016.png, id=125, 455.7025pt x 461.725pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814125047016.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814125047016.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814125047016.png  used on input line 77.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814125047016.png  used on input line 83.
 (pdftex.def)             Requested size: 136.71179pt x 138.51857pt.
-<D:/OneDrive/markdown/Maekawa/image-20200814125056916.png, id=92, 1241.63875pt x 199.74625pt>
+<D:/OneDrive/markdown/Maekawa/image-20200814125056916.png, id=128, 1241.63875pt x 199.74625pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814125056916.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814125056916.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814125056916.png  used on input line 83.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814125056916.png  used on input line 89.
 (pdftex.def)             Requested size: 372.4945pt x 59.92433pt.
-[3 <D:/OneDrive/markdown/Maekawa/image-20200814124909047.png> <D:/OneDrive/markdown/Maekawa/image-20200814125047016.png>]
-<D:/OneDrive/markdown/Maekawa/image-20200814130533821.png, id=135, 1265.72874pt x 490.83376pt>
+[4 <D:/OneDrive/markdown/Maekawa/image-20200814124909047.png> <D:/OneDrive/markdown/Maekawa/image-20200814125047016.png>]
+<D:/OneDrive/markdown/Maekawa/image-20200814130533821.png, id=150, 1265.72874pt x 490.83376pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814130533821.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png  used on input line 105.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png  used on input line 111.
 (pdftex.def)             Requested size: 379.72156pt x 147.25125pt.
- [4 <D:/OneDrive/markdown/Maekawa/image-20200814125056916.png> <D:/OneDrive/markdown/Maekawa/image-20200814130533821.png>]
-<D:/OneDrive/markdown/Maekawa/image-20200814191350681.png, id=162, 1249.66875pt x 288.07625pt>
+ [5 <D:/OneDrive/markdown/Maekawa/image-20200814125056916.png> <D:/OneDrive/markdown/Maekawa/image-20200814130533821.png>]
+<D:/OneDrive/markdown/Maekawa/image-20200814191350681.png, id=170, 1249.66875pt x 288.07625pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814191350681.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png  used on input line 122.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png  used on input line 128.
 (pdftex.def)             Requested size: 374.90352pt x 86.42354pt.
- ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.bbl") [5 <D:/OneDrive/markdown/Maekawa/image-20200814191350681.png>] ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.aux") ) 
+ ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.bbl") [6 <D:/OneDrive/markdown/Maekawa/image-20200814191350681.png>] ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.aux") ) 
 Here is how much of TeX's memory you used:
- 7997 strings out of 480693
- 138099 string characters out of 2903249
- 375567 words of memory out of 3000000
- 23760 multiletter control sequences out of 15000+200000
- 560619 words of font info for 127 fonts, out of 3000000 for 9000
+ 8175 strings out of 480693
+ 140595 string characters out of 2903249
+ 376674 words of memory out of 3000000
+ 23910 multiletter control sequences out of 15000+200000
+ 566124 words of font info for 148 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,10n,52p,564b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.pdf" (5 pages, 858055 bytes).
+<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.pdf" (6 pages, 883737 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
+ 439 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
