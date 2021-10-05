@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2021.4.19)  5 OCT 2021 19:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2021.4.19)  5 OCT 2021 19:59
 entering extended mode
 **"d:/OneDrive/document/The Maekawa-Justin Theorem/The Maekawa-Justin Theorem.tex"
 ("d:/OneDrive/document/The Maekawa-Justin Theorem/The Maekawa-Justin Theorem.tex"
@@ -519,25 +519,25 @@ Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814125056916.pn
 <D:/OneDrive/markdown/Maekawa/image-20200814130533821.png, id=150, 1265.72874pt x 490.83376pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814130533821.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png  used on input line 111.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814130533821.png  used on input line 116.
 (pdftex.def)             Requested size: 379.72156pt x 147.25125pt.
  [5 <D:/OneDrive/markdown/Maekawa/image-20200814125056916.png> <D:/OneDrive/markdown/Maekawa/image-20200814130533821.png>]
-<D:/OneDrive/markdown/Maekawa/image-20200814191350681.png, id=170, 1249.66875pt x 288.07625pt>
+<D:/OneDrive/markdown/Maekawa/image-20200814191350681.png, id=167, 1249.66875pt x 288.07625pt>
 File: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png Graphic file (type png)
 <use D:/OneDrive/markdown/Maekawa/image-20200814191350681.png>
-Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png  used on input line 128.
+Package pdftex.def Info: D:/OneDrive/markdown/Maekawa/image-20200814191350681.png  used on input line 142.
 (pdftex.def)             Requested size: 374.90352pt x 86.42354pt.
  ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.bbl") [6 <D:/OneDrive/markdown/Maekawa/image-20200814191350681.png>] ("d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.aux") ) 
 Here is how much of TeX's memory you used:
- 8175 strings out of 480693
- 140595 string characters out of 2903249
- 376674 words of memory out of 3000000
- 23910 multiletter control sequences out of 15000+200000
+ 8180 strings out of 480693
+ 140613 string characters out of 2903249
+ 376706 words of memory out of 3000000
+ 23915 multiletter control sequences out of 15000+200000
  566124 words of font info for 148 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,10n,52p,564b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.pdf" (6 pages, 883737 bytes).
+Output written on "d:/OneDrive\document\The Maekawa-Justin Theorem\The Maekawa-Justin Theorem.pdf" (6 pages, 883779 bytes).
 PDF statistics:
  439 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
